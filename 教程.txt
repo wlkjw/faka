@@ -1,0 +1,8 @@
+﻿PHP MYSQL
+上传到虚拟空间或者服务器
+http://域名/install 进入安装模式
+
+
+assets/imgs/logo.png
+     logo修改地址
+other/epay/epay.config   （用别人接口 才修改这个） 支付接口 域名修改  改好以后 后台填写 商户和密码   
